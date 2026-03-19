@@ -1,0 +1,15 @@
+{
+  "manifestVersion": "1",
+  "name": "Colección Tech",
+  "version": "1.0.0",
+  "templatesPath": "templates",
+  "templates": [
+    {
+      "id": "it-professional",
+      "name": "IT Professional (Modern)",
+      "description": "Plantilla optimizada para desarrolladores, con enfoque en habilidades y proyectos.",
+      "preview": "💻",
+      "file": "it-professional.json"
+    }
+  ]
+}
